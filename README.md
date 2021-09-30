@@ -1,1 +1,3 @@
-# HTML_CSS_JS_web_dev_coursera
+# HTML, CSS, and Javascript for Web Developers
+
+This is a repo of my solutions to the Coursera webdev course. 
