@@ -1,5 +1,40 @@
-p {
-    color: blue;
-    font-size: 20px;
-    width: 200px;
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 120%;
+}
+
+section {
+    text-align: center;
+    box-sizing: border-box;
+    background-color: magenta;
+    width: 30%;
+    padding: 10px;
+    
+    border-width:10px;
+    border-color: mediumturquoise;
+    border-style: solid;
+    
+    margin: 10px;
+}
+
+
+div.beef, div.sushi, div.chicken {
+box-sizing: border-box;
+width: 40%;
+text-align: center;
+padding: 4px;
+}
+
+
+.chicken {
+    background-color:#fcdc83;
+}
+
+.beef{
+    background-color: #e81c3e;
+}
+
+.sushi {
+    background-color: #02de8d;
+
 }
