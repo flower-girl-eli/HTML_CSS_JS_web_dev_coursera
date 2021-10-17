@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 120%;
@@ -5,7 +9,6 @@ body {
 
 section {
     text-align: center;
-    box-sizing: border-box;
     background-color: magenta;
     width: 30%;
     padding: 10px;
@@ -15,14 +18,15 @@ section {
     border-style: solid;
     
     margin: 10px;
+    float: left;
+
 }
 
-
 div.beef, div.sushi, div.chicken {
-box-sizing: border-box;
 width: 40%;
 text-align: center;
 padding: 4px;
+
 }
 
 
